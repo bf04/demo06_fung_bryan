@@ -1,1 +1,24 @@
 
+.bg-info {
+    background-color: lightcyan !important;     /* some secondary colour */
+}
+
+.navbar-light .navbar-brand {
+    color: #ffc2ff;                           /* contrast to secondary colour */
+}
+
+.btn-primary {
+    color: #7C6A0A;                           /* contrast to secondary colour */
+    font-size: 150%;
+    background-color: lightpink;                /* some secondary colour */
+    border-color: #a488b3;                    /* some accent colour */
+    border-width: thick
+}
+
+body {
+    background-color:lightpink;                /* some primary colour */
+}
+.navbar-brand{
+    font-family:'Courier New', Courier, monospace  ;
+    font-size: 2.25rem;
+}
